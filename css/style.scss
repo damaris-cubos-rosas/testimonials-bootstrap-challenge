@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(210, 46%, 95%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.name {
+    display: inline-block;
+}
+ul {
+    list-style-type: none;
+}
+
+.bg-article-1 {
+    background-color: hsl(263, 55%, 52%);
+}
+
+.border-article-1 {
+    border: 1px solid hsl(263, 55%, 52%);
+}
+
+.bg-article-2 {
+    background-color: hsl(217, 19%, 35%);
+}
+
+.border-article-2 {
+    border: 1px solid hsl(217, 19%, 35%);
+}
+
+.bg-article-3 {
+    background-color: hsl(219, 29%, 14%);
+}
+
+.border-article-3 {
+    border: 1px solid hsl(219, 29%, 14%);
+}
